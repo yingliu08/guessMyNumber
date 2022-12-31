@@ -12,3 +12,5 @@ and only 20 times to guess, if you run out of chance, will display the "game ove
 when user enter the correct number, background color will change, and also show the correct number in the box.
 <img width="1241" alt="Screen Shot 2022-12-31 at 6 22 11 PM" src="https://user-images.githubusercontent.com/87909834/210157484-6b7f0515-a319-4dcd-83e9-4accd317181c.png">
 
+when user click "again", all the data become original.
+
