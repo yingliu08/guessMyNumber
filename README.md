@@ -1,5 +1,8 @@
 # guessMyNumber
 
+
+link to play 
+https://yingliu08.github.io/guessMyNumber/ 
 use javascript, html and css.
 <img width="1261" alt="Screen Shot 2022-12-31 at 6 21 40 PM" src="https://user-images.githubusercontent.com/87909834/210157456-db0bcc5a-3ade-4bec-8dda-7c0a9d19c0d8.png">
 
